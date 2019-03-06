@@ -3,6 +3,8 @@
 3. Used React-router for routing between home page and specific post.  
 4. Used stylus npm package for animation around whole application. 
 
+![](ss3.gif)
+
 ![](ss1.png)
 
 ![](ss2.png)
