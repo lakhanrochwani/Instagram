@@ -12,9 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wesbos/Learn-Redux.git"
+    "url": ""
   },
-  "author": "Wes Bos",
+  "author": "Lakhan Rochwani",
   "license": "MIT",
   "homepage": "https://github.com/wesbos/Learn-Redux",
   "dependencies": {
