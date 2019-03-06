@@ -4,3 +4,5 @@
 4. Used stylus npm package for animation around whole application. 
 
 ![](ss1.png)
+
+![](ss2.png)
